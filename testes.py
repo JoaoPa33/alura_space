@@ -1,2 +1,3 @@
 class dinalssauro:
-    def
+    def __init__(self) -> None:
+        pass

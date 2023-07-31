@@ -1,2 +1,2 @@
 class dinalssauro:
-    pass
+    def
